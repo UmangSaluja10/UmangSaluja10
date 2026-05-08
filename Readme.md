@@ -2,7 +2,7 @@
 
 <!-- Name Header -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Umang!" alt="Hi I'm Umang Saluja!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Umang!" alt="Hi I'm Umang!" />
 </h1>
 
 <!-- Role Typewriter -->
@@ -13,7 +13,7 @@
 <!-- Status Badge -->
 ![Open to Collaborate](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Collaborate-22c55e?style=for-the-badge&labelColor=0a0a0f)
 &nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D-Delhi%2C%20India-6366f1?style=for-the-badge&labelColor=0a0a0f)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Ghaziabad%2C%20India-6366f1?style=for-the-badge&labelColor=0a0a0f)
 &nbsp;
 ![Remote](https://img.shields.io/badge/%F0%9F%8C%90-Remote%20Friendly-8b5cf6?style=for-the-badge&labelColor=0a0a0f)
 
@@ -109,9 +109,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangsaluja10&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6" alt="Top Languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umangsaluja10&theme=tokyonight" alt="Top Languages"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umangsaluja10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6" alt="GitHub Stats"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umangsaluja10&theme=tokyonight&utcOffset=5.5" alt="GitHub Stats"/>
 
 <br/>
 
